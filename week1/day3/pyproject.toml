@@ -1,0 +1,5 @@
+[dependency-groups]
+dev = [
+    "groq>=1.6.0",
+    "python-dotenv>=1.2.2",
+]
